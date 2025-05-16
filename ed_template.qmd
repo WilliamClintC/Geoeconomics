@@ -1,0 +1,70 @@
+---
+title: "Literature Survey"
+subtite: ""
+date: today
+format: 
+  revealjs:
+    slide-number: true
+    show-slide-number: all
+    theme: serif
+    chalkboard: true
+editor: visual
+author:
+  - name: "William Clinton Co"
+    id: 
+    orcid: 
+    email: 
+    affiliation: 
+      - name: The University of British Columbia
+        city: 
+        url: ""
+logo: /content/ubc-logo.png
+footer: ""
+bibliography: references.bib
+---
+
+## Geoeconomics
+
+**5 types**
+
+1.  Tools
+
+2.  Trade
+
+3.  Finance
+
+4.  Risk
+
+5.  War
+
+## Tools
+
+1.  Sanctions
+
+2.  Embargoes
+
+3.  Tariffs
+
+4.  Export/Investment Controls
+
+5.  Espionage
+
+6.  Foreign Aid
+
+## Sanctions / Embargoes
+
+-   loser and winers from sanction
+
+-   trending towards miro level analysis
+
+-   determinants of sanctions
+
+## Tariffs 
+
+-   understanding the determinants of Tarrifs
+
+-   Survey of US China Tariffs @fajgelbaumEconomicImpactsUSChina2021
+
+-   this litearture is useful for understanding the determinants of tariff and how vulenrable a MNE given determinants
+
+## References

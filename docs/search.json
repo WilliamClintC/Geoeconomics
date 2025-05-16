@@ -1,37 +1,93 @@
 [
   {
-    "objectID": "ed_template.html#geoeconomics",
-    "href": "ed_template.html#geoeconomics",
-    "title": "Literature Survey",
-    "section": "Geoeconomics",
-    "text": "Geoeconomics\n5 types\n\nTools\nTrade\nFinance\nRisk\nWar"
-  },
-  {
-    "objectID": "ed_template.html#tools",
-    "href": "ed_template.html#tools",
-    "title": "Literature Survey",
-    "section": "Tools",
-    "text": "Tools\n\nSanctions\nEmbargoes\nTariffs\nExport/Investment Controls\nEspionage\nForeign Aid"
-  },
-  {
     "objectID": "ed_template.html#sanctions-embargoes",
     "href": "ed_template.html#sanctions-embargoes",
     "title": "Literature Survey",
     "section": "Sanctions / Embargoes",
-    "text": "Sanctions / Embargoes\n\nloser and winers from sanction\ntrending towards miro level analysis\nhyper specific detereminants"
+    "text": "Sanctions / Embargoes\n\nloser and winners from sanction\ntrending towards micro level analysis\ndeterminants of sanctions"
   },
   {
     "objectID": "ed_template.html#tariffs",
     "href": "ed_template.html#tariffs",
     "title": "Literature Survey",
     "section": "Tariffs",
-    "text": "Tariffs\n\nSurvey of US China Tariffs (Fajgelbaum and Khandelwal (2021))"
+    "text": "Tariffs\n\nunderstanding the determinants of Tariffs\nSurvey of US China Tariffs Fajgelbaum and Khandelwal (2021)\nthis literature is useful for understanding the determinants of tariff and how vulnerable a MNE given determinants"
+  },
+  {
+    "objectID": "ed_template.html#export-investment-controls",
+    "href": "ed_template.html#export-investment-controls",
+    "title": "Literature Survey",
+    "section": "Export/ Investment Controls",
+    "text": "Export/ Investment Controls\n\neffects of tools\nnothing particularly interesting"
+  },
+  {
+    "objectID": "ed_template.html#sabotage-foreign-aid",
+    "href": "ed_template.html#sabotage-foreign-aid",
+    "title": "Literature Survey",
+    "section": "Sabotage / Foreign Aid",
+    "text": "Sabotage / Foreign Aid\n\nnothing particularly interesting"
+  },
+  {
+    "objectID": "ed_template.html#frameworks",
+    "href": "ed_template.html#frameworks",
+    "title": "Literature Survey",
+    "section": "Frameworks",
+    "text": "Frameworks\n\nHistory\nhow to think about trade\nVery useful in understanding how to position MNE’s\nread page 9 and 10 Mohr and Trebesch (2024)\nHegemony\nTrade Fargmentation"
+  },
+  {
+    "objectID": "ed_template.html#trade-fragmentation",
+    "href": "ed_template.html#trade-fragmentation",
+    "title": "Literature Survey",
+    "section": "Trade Fragmentation",
+    "text": "Trade Fragmentation\n\nSlowbalization\nsigns of geoeconomics fragmentation, , decoupling, friend shoring\neffects of trade fragementation\nmodeling trade fragementation\nconnecting countries\nsupply chain risk\npromising (micro level data)"
+  },
+  {
+    "objectID": "ed_template.html#better-measurement",
+    "href": "ed_template.html#better-measurement",
+    "title": "Literature Survey",
+    "section": "Better Measurement",
+    "text": "Better Measurement\n\nhigher frequency, more granularity\nmeasures of alliances, rivalries, spheres of influence, coercion"
+  },
+  {
+    "objectID": "ed_template.html#history",
+    "href": "ed_template.html#history",
+    "title": "Literature Survey",
+    "section": "History",
+    "text": "History\n\nCold war\nAnglo German Rivalry 1880\n\n\nmachine learning and image recognition. extracurricular large amounts of historical data and text quickly and efficiently"
+  },
+  {
+    "objectID": "ed_template.html#economics-weapons",
+    "href": "ed_template.html#economics-weapons",
+    "title": "Literature Survey",
+    "section": "Economics Weapons",
+    "text": "Economics Weapons\n\nRich micro data and state of the art causal models\nbetter understand cost trade offs effectiveness of sanction\nmore holistic view examining the whole poison cabinet\ninteractions between the tools and MNE strategy"
+  },
+  {
+    "objectID": "ed_template.html#international-finance",
+    "href": "ed_template.html#international-finance",
+    "title": "Literature Survey",
+    "section": "International finance",
+    "text": "International finance\n\nfocus is on trade\nneed more finance\nglobal capital allocation geopolitical shifts and global capital allocation currency markets and asset prices"
+  },
+  {
+    "objectID": "ed_template.html#war",
+    "href": "ed_template.html#war",
+    "title": "Literature Survey",
+    "section": "War",
+    "text": "War\n\ngreat power wars and interstate wars need to be revisited with modern approaches.\nprocurement/military supply chain\nless relevant"
+  },
+  {
+    "objectID": "ed_template.html#my-opinion",
+    "href": "ed_template.html#my-opinion",
+    "title": "Literature Survey",
+    "section": "My Opinion",
+    "text": "My Opinion\n\nEconomic Weapons and International Finance\n\nunderstanding MNE choices given a certain set of economics weapons\nChoices being capital allocation.\n\nBetter Measurement and History"
   },
   {
     "objectID": "ed_template.html#references",
     "href": "ed_template.html#references",
     "title": "Literature Survey",
     "section": "References",
-    "text": "References\n\n\n\n\nFajgelbaum, Pablo, and Amit Khandelwal. 2021. “The Economic Impacts of the US-China Trade War.” Working {{Paper}}. Working Paper Series. National Bureau of Economic Research. https://doi.org/10.3386/w29315."
+    "text": "References\n\n\n\n\nFajgelbaum, Pablo, and Amit Khandelwal. 2021. “The Economic Impacts of the US-China Trade War.” Working {{Paper}}. Working Paper Series. National Bureau of Economic Research. https://doi.org/10.3386/w29315.\n\n\nMohr, Cathrin, and Christoph Trebesch. 2024. “Geoeconomics.” {{SSRN Scholarly Paper}}. Rochester, NY: Social Science Research Network. https://doi.org/10.2139/ssrn.5073285."
   }
 ]

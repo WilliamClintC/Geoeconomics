@@ -94,7 +94,7 @@ bibliography: references.bib
 
 5.  Hegemony
 
-6.  Trade Fargmentation
+6.  Trade Fragmentation
 
 ## Trade Fragmentation
 
@@ -102,15 +102,33 @@ bibliography: references.bib
 
 2.  signs of geoeconomics fragmentation, , decoupling, friend shoring
 
-3.  effects of trade fragementation
+3.  effects of trade fragmentation
 
-4.  modeling trade fragementation
+4.  modeling trade fragmentation
 
 5.  connecting countries
 
 6.  supply chain risk
 
 7.  promising (micro level data)
+
+# Finance
+
+1.  dollar dominance
+2.  capital flows
+
+# Risk
+
+1.  measuring risk
+2.  newspaper
+3.  earning calls
+
+# War
+
+1.  liberal vs realist view
+2.  costs of war
+3.  war financing
+4.  military R&D
 
 # Possible Avenues
 

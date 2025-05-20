@@ -1,0 +1,190 @@
+---
+title: "Literature Survey"
+subtite: ""
+date: today
+format: 
+  revealjs:
+    slide-number: true
+    show-slide-number: all
+    theme: serif
+    chalkboard: true
+editor: visual
+author:
+  - name: "William Clinton Co"
+    id: 
+    orcid: 
+    email: 
+    affiliation: 
+      - name: The University of British Columbia
+        city: 
+        url: ""
+logo: /content/ubc-logo.png
+footer: ""
+bibliography: references.bib
+---
+
+# Geoeconomics
+
+**5 types**
+
+1.  Tools
+
+2.  Trade
+
+3.  Finance
+
+4.  Risk
+
+5.  War
+
+# Tools
+
+1.  Sanctions
+
+2.  Embargoes
+
+3.  Tariffs
+
+4.  Export/Investment Controls
+
+5.  Espionage
+
+6.  Foreign Aid
+
+## Sanctions / Embargoes
+
+-   loser and winners from sanction
+
+-   trending towards micro level analysis
+
+-   determinants of sanctions
+
+## Tariffs
+
+-   understanding the determinants of Tariffs
+
+-   Survey of US China Tariffs @fajgelbaumEconomicImpactsUSChina2021
+
+-   this literature is useful for understanding the determinants of tariff and how vulnerable a MNE given determinants
+
+## Export/ Investment Controls
+
+-   effects of tools
+
+-   nothing particularly interesting
+
+## Sabotage / Foreign Aid
+
+-   nothing particularly interesting
+
+# Trade
+
+1.  Framework
+2.  Hegemony and Trade Fragmentation
+
+## Frameworks
+
+1.  History
+
+2.  how to think about trade
+
+3.  Very useful in understanding how to position MNE's
+
+4.  read page 9 and 10 @mohrGeoeconomics2024
+
+5.  Hegemony
+
+6.  Trade Fragmentation
+
+## Trade Fragmentation
+
+1.  Slowbalization
+
+2.  signs of geoeconomics fragmentation, , decoupling, friend shoring
+
+3.  effects of trade fragmentation
+
+4.  modeling trade fragmentation
+
+5.  connecting countries
+
+6.  supply chain risk
+
+7.  promising (micro level data)
+
+# Finance
+
+1.  dollar dominance
+2.  capital flows
+
+# Risk
+
+1.  measuring risk
+2.  newspaper
+3.  earning calls
+
+# War
+
+1.  liberal vs realist view
+2.  costs of war
+3.  war financing
+4.  military R&D
+
+# Possible Avenues
+
+1.  Better Measurement
+
+2.  History
+
+3.  economics weapons
+
+4.  international finance
+
+5.  Wars
+
+6.  Technology
+
+## Better Measurement
+
+1.  higher frequency, more granularity
+
+2.  measures of alliances, rivalries, spheres of influence, coercion
+
+## History
+
+1.  Cold war
+2.  Anglo German Rivalry 1880
+
+-   machine learning and image recognition. extracurricular large amounts of historical data and text quickly and efficiently
+
+## Economics Weapons
+
+1.  Rich micro data and state of the art causal models
+2.  better understand cost trade offs effectiveness of sanction
+3.  more holistic view examining the whole poison cabinet
+4.  interactions between the tools and MNE strategy
+
+## International finance
+
+1.  focus is on trade
+
+2.  need more finance
+
+3.  global capital allocation geopolitical shifts and global capital allocation currency markets and asset prices
+
+## War
+
+1.  great power wars and interstate wars need to be revisited with modern approaches.
+
+2.  procurement/military supply chain
+
+3.  less relevant
+
+## My Opinion
+
+1.  Economic Weapons and International Finance
+    1.  understanding MNE choices given a certain set of economics weapons
+    2.  Choices being capital allocation.
+2.  Better Measurement and History
+
+## References

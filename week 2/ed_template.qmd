@@ -25,6 +25,26 @@ bibliography: references.bib
 
 # Geoeconomics
 
+## Last meeting
+
+focus on what we know
+
+keywords: collaboration, technology, MNEs
+
+Alternative Finance @allenAlternativeFinanceInternational2023
+
+not rlated to mne
+
+thuis one is
+
+@wittDeglobalizationTheoriesPredictions2019a
+
+failure of the system. given that theree is a failure of the system we investigate weatehr there is alternative ifnancing that compensates for failure of the system
+
+will we have companies cooperating with each other disregarding state bickering
+
+How multinational enterprises use alternative financial platforms and collaborative networks to navigate geopolitical tensions and institutional voids.
+
 **5 types**
 
 1.  Tools
@@ -144,7 +164,7 @@ bibliography: references.bib
 
 6.  Technology
 
-## Better Measurement 
+## Better Measurement
 
 1.  higher frequency, more granularity
 
